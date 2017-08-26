@@ -1,0 +1,54 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.menu {
+  background-image: url("../images/building.png");
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+a {
+  color: white;
+}
+
+h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h5 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  background-image: url("../images/building.png");
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+}
